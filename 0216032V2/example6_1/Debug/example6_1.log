@@ -1,0 +1,71 @@
+﻿已經開始建置於 2016/1/11 下午 09:50:19。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\XDEX-pc\Desktop\0216032V2\example6_1\example6_1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\include\ShaderLoader.cpp ..\include\Vector3D.cpp main.cpp mesh.cpp
+         mesh.cpp
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(60): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(83): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(89): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(103): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(190): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(194): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(204): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(213): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(222): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(231): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(237): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(243): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(249): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(255): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\mesh.cpp(261): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+         main.cpp
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\main.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\main.cpp(179): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\main.cpp(397): warning C4018: '<': signed/unsigned 不相符
+     1>c:\users\xdex-pc\desktop\0216032v2\example6_1\main.cpp(437): warning C4018: '<': signed/unsigned 不相符
+         Vector3D.cpp
+         ShaderLoader.cpp
+     1>c:\users\xdex-pc\desktop\0216032v2\include\shaderloader.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+         正在產生程式碼...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XDEX-pc\Desktop\0216032V2\Debug\example6_1 (texture).exe" /INCREMENTAL /NOLOGO /LIBPATH:../lib glut32.lib freeimage.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\XDEX-pc\Desktop\0216032V2\Debug\example6_1 (texture).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XDEX-pc\Desktop\0216032V2\Debug\example6_1 (texture).lib" /MACHINE:X86 /SAFESEH Debug\ShaderLoader.obj
+         Debug\Vector3D.obj
+         Debug\main.obj
+         Debug\mesh.obj
+     1>ShaderLoader.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+         example6_1.vcxproj -> C:\Users\XDEX-pc\Desktop\0216032V2\Debug\example6_1 (texture).exe
+     1>專案 "C:\Users\XDEX-pc\Desktop\0216032V2\example6_1\example6_1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.98
